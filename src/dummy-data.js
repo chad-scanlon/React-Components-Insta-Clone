@@ -70,7 +70,7 @@ const dummyData = [
       },
       {
         username: "SchruteFarms",
-        text: "Should've used a Patronus charm",
+        text: "You should've used a Patronus charm",
       },
     ],
   },
