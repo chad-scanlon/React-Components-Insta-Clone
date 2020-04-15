@@ -4,10 +4,9 @@ import CommentInput from "./CommentInput";
 import Comment from "./Comment";
 import "./Comment.css";
 
-const CommentSection = props => {
+const CommentSection = (props) => {
   // Add state for the comments
   const [comments] = useState(props.comments);
-  console.log(comments);
 
   return (
     <div>

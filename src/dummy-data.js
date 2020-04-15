@@ -50,6 +50,30 @@ const dummyData = [
       },
     ],
   },
+  {
+    username: "PrisonMike",
+    thumbnailUrl:
+      "https://crlibrary.libnet.info/images/events/crlibrary/the-office-25.jpg",
+    imageUrl:
+      "https://carboncostume.com/wordpress/wp-content/uploads/2014/07/prisonmike.jpg",
+    likes: 100,
+    timestamp: "April 14th 2020, 4:42:40 pm",
+    comments: [
+      {
+        username: "BigTuna",
+        text: "What was the worst part about prison, Prison Mike?",
+      },
+      {
+        username: "PrisonMike",
+        text:
+          "The worst thing about prison was the... was the Dementors. They... were flying all over the place, and they were scary. And they'd come down, and they'd suck the soul out of your body, and it hurt!",
+      },
+      {
+        username: "SchruteFarms",
+        text: "Should've used a Patronus charm",
+      },
+    ],
+  },
 ];
 
 export default dummyData;
